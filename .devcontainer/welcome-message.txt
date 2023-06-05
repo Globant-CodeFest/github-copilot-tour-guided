@@ -1,0 +1,6 @@
+👋 ¡Bienvenido a la experiencia de demostración de Copilot + Codespaces! 
+¡Estamos encantados de que esté aquí y esperamos que esté emocionado de 
+explorar las capacidades de Copilot! 🔍 Para iniciar una demostración, 
+haga clic en "CODETOUR" en la esquina inferior izquierda, coloque el 
+cursor sobre una opción y presione la flecha para comenzar. 
+📝 Si desea registrarse en Copilot, visite aquí: https://github.com/features/copilot#pricing

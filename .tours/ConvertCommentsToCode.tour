@@ -1,0 +1,29 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "ConvertCommentsToCode",
+  "steps": [
+    {
+      "file": "ConvertCommentsToCode.py",
+      "description": "¡Bienvenido a su recorrido de GitHub Copilot! ¡Comencemos por aprender a convertir comentarios en código! ¡Presiona Siguiente para continuar 👇!",
+      "line": 1,
+      "contents": ""
+    },
+    {
+      "file": "ConvertCommentsToCode.py",
+      "description": "Presione __ENTER__ al final de la línea 2. Debería ver una sugerencia dada por Copilot. ¡Aceptemos la sugerencia de Copilot presionando __TAB__! ¡Presiona Siguiente para continuar 👇!",
+      "line": 2,
+      "contents": ""
+    },
+    {
+      "file": "ConvertCommentsToCode.py",
+      "line": 9,
+      "description": "Vamos a ejecutar el código para ver si funciona. Haga clic en el siguiente hipervínculo para ejecutar su archivo ConvertCommentsToCode.py. Debe contar del uno al diez. \n\n>> python3 ConvertCommentsToCode.py\n\nMission complete! You've used GitHub Copilot to create a function that counts to 10!"
+    },
+    {
+      "file": "ConvertCommentsToCode.py",
+      "description": "Thank you for trying out the GitHub Copilot Convert to Comments demo! Try a few different variables of your own! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
+      "line": 10,
+      "contents": ""
+    }
+  ]
+}

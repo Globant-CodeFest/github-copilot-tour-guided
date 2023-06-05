@@ -1,0 +1,1 @@
+La demostración de Copilot-Codespaces es desarrollada y mantenida activamente por el personal de GitHub y la comunidad. Haremos todo lo posible para responder a las preguntas de apoyo y de la comunidad de manera oportuna.

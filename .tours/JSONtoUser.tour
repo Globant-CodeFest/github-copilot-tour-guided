@@ -1,0 +1,26 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "JSONtoUser",
+  "steps": [
+    {
+      "file": "JSONtoUser.py",
+      "description": "CodeTourStep #1 de 4 (JSONtoUser) ¡Bienvenido a su recorrido de GitHub Copilot! Vamos a saltar directamente a un caso de uso común para Copilot: ayudar a escribir código repetitivo. Aquí puede ver un ejemplo de la clase Usuario, así como una representación JSON de un usuario. Presiona Siguiente para continuar 👇\n\n Press `Next` to continue 👇",
+      "line": 1
+    },
+    {
+      "file": "JSONtoUser.py",
+      "description": "Podemos usar Copilot para serializar automáticamente el json en la clase. Presione __ENTER__ al final de la línea 14 para solicitar a Copilot que genere el código repetitivo y __TAB__ para aceptar el código generado.\nOnce it's generated the code, press `Next` to continue 👇",
+      "line": 14
+    },
+    {
+      "file": "JSONtoUser.py",
+      "description": "También podemos usar Copilot para escribir una función para convertir de la clase a JSON. Presione __ENTER__ al final de la línea 18 para solicitar a Copilot que genere el código repetitivo y __TAB__ para aceptar el código generado.\nOnce it's generated the code, press `Next` to continue 👇",
+      "line": 18
+    },
+    {
+      "file": "JSONtoUser.py",
+      "description": "Thank you for trying out the GitHub JSONtoUser Demo! Try out some new Code Tours in the bottom left panel! If you would like to sign up for Copilot visit here: https://github.com/features/copilot#pricing",
+      "line": 42
+    }
+  ]
+}
